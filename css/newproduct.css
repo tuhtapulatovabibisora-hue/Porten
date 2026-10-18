@@ -1,0 +1,74 @@
+.container{
+    max-width: 1110px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h6{
+font-family: Playfair Display;
+font-weight: 700;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+color: white;
+padding: 42px;
+padding-bottom: 70px;
+}
+
+.lin{
+    width: 110px;
+    background-color: white;
+    height: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.news-cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 23px;
+}
+
+.news-card_content{
+    background: #191B1C;
+    padding: 55px 22px;
+    margin-bottom: 40px;
+}
+
+.news-lone{
+width: 1920;
+height: 1289;
+background-color: black;
+}
+
+
+.vash{
+font-family: Playfair Display;
+font-weight: 400;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 140px;
+height: 24px;
+color: #FFFFFF;
+}
+
+.vashep{
+font-family: Playfair Display;
+font-weight: 700;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 92px;
+height: 21px;
+color: #FFFFFF;
+}
+
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

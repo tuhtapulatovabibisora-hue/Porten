@@ -1,0 +1,101 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.col-cards{
+    display: flex;
+    gap: 20px;
+}
+
+.col-cards-content{
+    background-color:#191B1C;
+    padding: 50px 10px;
+    padding-right: 50px;
+}
+    
+.col-left h2{
+    text-align: center;
+    margin-bottom: 100px;
+    padding-top: 90px;
+    color: white;
+}
+
+.col-left{
+    width: 50%;
+    padding-right: 20px;
+    background: black;
+}
+
+.nom{
+    padding-top: 72px;
+    color: white;
+}
+
+.nam{
+    color: white;
+}
+
+.watch{
+    width: 100px;
+}
+
+.col-right{
+    background-image: url("../images/collection.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 50%;
+}
+
+.watch-charset{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.collec{
+font-family: Playfair Display;
+font-weight: 700;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+width: 410.18px;
+height: 39px;
+color: white;
+padding-bottom: 60px;
+padding-top: 40px;
+}
+
+.col-right{
+    margin-top: 20px;
+    justify-content: space-between;
+    padding: 480px 274px 112px 270px;
+}
+
+.catalog-btn{
+    padding: 12px 28px;
+    background: transparent;
+    border: none;
+    border: 1px solid #FFFFFF;
+    font-family: PT Sans;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 10%;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+
+.line{
+    width: 110px;
+    background-color: white;
+    height: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
